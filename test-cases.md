@@ -31,7 +31,9 @@
 **Expected Result:**
 - User is not logged in.
 - An appropriate error message is displayed.
+
 ---
+
 # TC-003 — successful register account with phone
 **Preconditions:**
 - User has to be logged out.
