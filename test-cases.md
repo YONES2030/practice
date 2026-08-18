@@ -34,7 +34,7 @@
 
 ---
 
-# TC-003 — successful register account with phone
+## TC-003 — successful register account with phone
 **Preconditions:**
 - User has to be logged out.
 - User is on the registration page-> by phone.
@@ -52,7 +52,7 @@
 
   ---
   
-  TC-004 — user can change the welcome bonus from within the account.
+## TC-004 — user can change the welcome bonus from within the account.
 
 **Preconditions:**
 - User is logged in.
