@@ -56,14 +56,15 @@
 
 **Preconditions:** 
 - User is logged in.
-- User is on account settings page.
 
-**Steps:**
-1. Scroll to the bottom.
-2. Switch to your desired welcome bonus.
+**Steps:** for desktop
+for desktop
+1. Click on the avatar in the top right corner.
+2. In the left-hand menu, click on "Account Settings".
+3. Scroll down to the bottom of the page.
+4. change the bonus selection by choosing one of the options: (Sports Bonus / Casino Bonus / Reject Bonus).
 
 **Expected Result:**
-- The welcome bonus is successfully updated to the selected bonus.
-- he changes are correctly reflected on the page.
+-A pop-up interface appears, confirming that the bonus change has been
 
   ---
