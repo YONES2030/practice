@@ -54,7 +54,7 @@
   
 ## TC-004 — user can change the welcome bonus from within the account.
 
-**Preconditions:**
+**Preconditions:** 
 - User is logged in.
 - User is on account settings page.
 
