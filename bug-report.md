@@ -4,7 +4,7 @@
 BUG-001
 
 ## Title
-Quick navigation—Legal Information-->Responsible Gambling :the back bottom of this page is not working.
+Quick navigation—Legal Information-->Responsible Gambling:the back bottom of this page is not working.
 
 ## Environment
 - Platform: melbet
@@ -22,13 +22,13 @@ Quick navigation—Legal Information-->Responsible Gambling :the back bottom of 
 3. Go to quick navigation—Legal Information.
 4. Open a Responsible Gambling link.
 5. Wait until the page loads completely.
-6. click Back navigation bottom and Confirm that you can return to the previous page.
+6. click website back button and Confirm that you can return to the previous page.
    
 ## Actual Result
-the back bottom of the Responsible Gambling page is not working.
+the website back button of the Responsible Gambling page clickable but doesn't do its job of returning to the previous page.
 
 ## Expected Result
-the back bottom of the Responsible Gambling page returns you to the previous page.
+the website back button of the Responsible Gambling page returns you to the previous page.
 
 ## Severity
 high
@@ -56,13 +56,13 @@ missing (Deposit) button on registration success mode.
 
 ## Preconditions
 - User is not registered/logged in.
-- User has access to a social network account.
+- User has access to a social account.
 
 ## Steps to Reproduce
 1. Open the Melbet website on desktop.
-2. Click "Sign Up".
-3. Select a social network registration option.
-4. Complete the registration process using the social network account.
+2. Click "registrations".
+3. Select socials option.
+4. Complete the registration process using any available social account.
 5. Observe the success modal displayed after successful registration.
 
 ## Actual Result
