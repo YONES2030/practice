@@ -45,7 +45,7 @@ Critical
 BUG-002
 
 ## Title
-missing (Deposit) button on registration success mode.
+missing (Deposit) button on registration success mode by social.
 
 ## Environment
 - Platform: melbet
@@ -60,7 +60,7 @@ missing (Deposit) button on registration success mode.
 
 ## Steps to Reproduce
 1. Open the Melbet website on desktop.
-2. Click "registrations".
+2. Click "Registration".
 3. Select socials option.
 4. Complete the registration process using any available social account.
 5. Observe the success modal displayed after successful registration.
