@@ -45,7 +45,7 @@ Critical
 BUG-002
 
 ## Title
-missing (Deposit) button on registration success mode by social.
+missing (Deposit) button on registration success model by social.
 
 ## Environment
 - Platform: melbet
