@@ -1,7 +1,5 @@
 # PostgreSQL
 
-
-
 ## Updating payment records for specific users in PostgreSQL and displaying the updated transaction results.
 
 **STEPS:**
@@ -49,7 +47,11 @@ FROM payments
 JOIN users
     ON payments.user_id = users.id
 WHERE users.username = 'zo alfakar';
-=======
+
+```
+
+===================================
+
 ## SELECT query that returns all cancelled orders using the users and orders tables.
 
 ### conditions:
@@ -75,7 +77,9 @@ FROM orders
 JOIN users
     ON orders.user_id = users.id
 WHERE orders.status = 'cancelled';
->>>>>> main
+
+```
+
 
 ```
 
