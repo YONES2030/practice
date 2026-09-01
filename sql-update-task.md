@@ -8,6 +8,7 @@
 ### 1.Query used to find pending payments for the user.
 
 ```
+
 SELECT 
      orders.id,
      users.username,
@@ -26,6 +27,7 @@ and users.username = 'yasser';
 ### 2.Query used to update the payment status to completed.
 
 ```
+
 UPDATE orders
 SET status = 'COMPLETED'
 FROM users
@@ -73,6 +75,7 @@ WHERE users.username = 'yasser';
 ### 5.Query used to check related order items for the updated order.
 
 ```
+
 select 
      orders.id,
      orders.product,
