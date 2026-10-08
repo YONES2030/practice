@@ -1,1 +1,23 @@
+# some commands required to use when fixing conflict via vs code
 
+git branch
+
+git checkout (branch name here)
+
+git pull origin (branch name here)
+
+git status
+
+git add (file name)
+
+git commit -m "Update somthings to somting"
+
+git push
+
+# this is to run in Terminal 
+
+git fetch origin
+
+git checkout (branch name here)
+
+git merge origin/main
