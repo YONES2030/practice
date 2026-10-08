@@ -1,5 +1,4 @@
 # practice
 my first practice
+this is my first commit from vs code
 
-# conflict resolve steps
-this is rows from main branch
