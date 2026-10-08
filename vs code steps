@@ -1,3 +1,5 @@
+# some commands required to use when fixing conflict via vs code
+
 git branch
 
 git checkout (branch name here)
@@ -12,7 +14,7 @@ git commit -m "Update somthings to somting"
 
 git push
 
-#this is to run in Terminal 
+# this is to run in Terminal 
 
 git fetch origin
 
